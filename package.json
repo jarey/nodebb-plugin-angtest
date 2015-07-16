@@ -1,0 +1,15 @@
+{
+"name": "nodebb-plugin-angtest",
+  "version": "0.0.1",
+  "description": "An angular app to test if it works with nodebb 0.7",
+  "main": "./library.js",
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "angular"
+  ],
+  "author": {
+    "name": "ricoud",
+    "email": "ricoudj@gmail.com"
+  }
+}
